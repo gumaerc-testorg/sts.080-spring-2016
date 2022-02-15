@@ -4,7 +4,7 @@ description: Children at the 1909 May Day parade in New York City protesting chi
   slavery. This course discusses the history of youth political activism and participation
   in the United States. Courtesy of the Library of Congress. This image is in the
   public domain.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-080-youth-political-participation-spring-2016/ac8a8102fa32cc5779463b5f06f79509_sts-080s16-th.jpg
+file: /media/courses/sts-080-youth-political-participation-spring-2016/ac8a8102fa32cc5779463b5f06f79509_sts-080s16-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Children at the 1909 May Day parade in New York City protesting child slavery.
@@ -14,6 +14,8 @@ image_metadata:
   credit: Courtesy of the Library of Congress. This image is in the public domain.
   image-alt: A photo from 1909 of two girls wearing banners that read "ABOLISH CHILD
     SLAVERY!" in English and Yiddish.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: 1909 May Day parade (thumbnail)
 uid: ac8a8102-fa32-cc57-7946-3b5f06f79509

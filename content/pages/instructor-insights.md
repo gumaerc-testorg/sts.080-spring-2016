@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 973b70ea-fc29-1442-c867-5fec683f544d
 ---
@@ -116,20 +118,6 @@ None
 ### Offered
 
 Spring 2016 was the first offering of the course.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four rows of moveable tables and wooden chairs facing a wall of blackboards.]({{< resource_file 8dddb730-a4fd-fac6-3d87-c7d20ccedb72 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with a seating capacity of 40 students, 6 chalkboards, and an LCD video projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
