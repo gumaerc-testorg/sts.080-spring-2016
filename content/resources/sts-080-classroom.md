@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 973b70ea-fc29-1442-c867-5fec683f544d
 resourcetype: Image
 title: STS.080 Classroom
 uid: 8dddb730-a4fd-fac6-3d87-c7d20ccedb72

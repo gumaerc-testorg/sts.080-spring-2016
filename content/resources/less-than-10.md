@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 973b70ea-fc29-1442-c867-5fec683f544d
 resourcetype: Image
 title: <10 students enrolled
 uid: 4277bd96-d703-06f2-42bd-4deeb664f383
