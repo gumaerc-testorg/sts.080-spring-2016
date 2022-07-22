@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: STS.080 Classroom
 uid: 8dddb730-a4fd-fac6-3d87-c7d20ccedb72
 ---
 Photograph of the classroom used for the course.
-

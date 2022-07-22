@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -18,4 +19,3 @@ title: <10 students enrolled
 uid: 4277bd96-d703-06f2-42bd-4deeb664f383
 ---
 Image showing the approximate number of students enrolled in the course when it was taught in Spring 2016.
-

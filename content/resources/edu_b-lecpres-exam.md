@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: lecture, presentation, and exam
 uid: f516af2a-588a-2ef4-8a0e-f1c091a035ca
 ---
 An image with lecture, presentation, and exam together.
-
