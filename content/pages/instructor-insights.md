@@ -1,31 +1,29 @@
 ---
 content_type: page
-layout: instructor_insights
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 title: Instructor Insights
 uid: 973b70ea-fc29-1442-c867-5fec683f544d
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _STS.080 Youth Political Participation_ as it was taught by Professor Jennifer Light in Spring 2016.
 
 This course placed contemporary youth activities in perspective by surveying young Americans' political participation over the past 200 years. Students investigated trends in youth political activism during specific periods of history, as well as what difference youth media production and technology made in determining the course of events.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Enhance one’s ability to identify what is truly new about the role of “new media” and other contemporary technologies in youth politcal participation
-*   Understand lessons from history for contemporary activists based on patterns of past failures and successes
+- Enhance one’s ability to identify what is truly new about the role of “new media” and other contemporary technologies in youth politcal participation
+- Understand lessons from history for contemporary activists based on patterns of past failures and successes
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-Below, Jennifer Light describes various aspects of how she taught STS.080 Youth Political Participation.
+_Below, Jennifer Light describes various aspects of how she taught_ STS.080 Youth Political Participation.
 
 {{< anchor "insight1" >}}{{< /anchor >}}
 
@@ -49,7 +47,7 @@ I asked students to email me discussion questions prior to each class session, i
 
 ### Reflecting on Student-Led Presentations
 
-Student-led presentations are important training tools given the importance of oral communication skills in many workplaces today. In addition, since the class was not a research-oriented course, the [presentations small groups provided for the class each session on the assigned topic for the week]({{< baseurl >}}/pages/assignments) were an opportunity for students to practice their information-seeking and information integration skills. I pointed them to initial sources, and then set them loose on the subject.
+Student-led presentations are important training tools given the importance of oral communication skills in many workplaces today. In addition, since the class was not a research-oriented course, the {{% resource_link 55b14541-8f0e-9148-69a6-fe49f991e471 "presentations small groups provided for the class each session on the assigned topic for the week" %}} were an opportunity for students to practice their information-seeking and information integration skills. I pointed them to initial sources, and then set them loose on the subject.
 
 Students’ presentations sparked many conversations in class about how to define what “counts” as political participation. Scholars have traditionally studied voting as the main form of political participation, which necessarily means overlooking the kinds of political activities in which people too young to vote have engaged. This class reflects the newly developing consensus that we need to revise our scholarly understandings of the meanings of political participation, past and present.
 
@@ -67,10 +65,9 @@ It was interesting for the students to learn about the kinds of political materi
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Student Insights
-----------------
+## Student Insights
 
-_Below, Valerie Peng, a student studying mechanical engineering, shares insights about her learning experiences in_ STS.080 Youth Political Participation_._
+_Below, Valerie Peng, a student studying mechanical engineering, shares insights about her learning experiences in_ STS.080 Youth Political Participation.
 
 ### Writing Exam Questions Collaboratively with the Instructor and other Students
 
@@ -100,8 +97,7 @@ Our field trip to the MIT museum illuminated a resource that all MIT students ha
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -109,32 +105,17 @@ None
 
 ### Requirements Satisfied
 
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   STS.080 can be applied toward a [Bachelor of Science in Science, Technology and Society (Second Major)](http://catalog.mit.edu/degree-charts/science-technology-society-sts/), but is not required.
+- HASS ![](/images/educator/icon-question-hass.png)
+- GIR ![](/images/educator/icon-question-gir.png)
+- STS.080 can be applied toward a [Bachelor of Science in Science, Technology and Society (Second Major)](http://catalog.mit.edu/degree-charts/science-technology-society-sts/), but is not required.
 
 ### Offered
 
 Spring 2016 was the first offering of the course.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four rows of moveable tables and wooden chairs facing a wall of blackboards.]({{< resource_file 8dddb730-a4fd-fac6-3d87-c7d20ccedb72 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a classroom with a seating capacity of 40 students, 6 chalkboards, and an LCD video projector.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -149,10 +130,11 @@ The students' grades were based on the following activities:
 
 Read about Professor Light’s insights about [writing exam questions collaboratively with students](#insight1).
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was taught in Spring 2016.]({{< resource_file 4277bd96-d703-06f2-42bd-4deeb664f383 >}})
+### Enrollment
+
+Fewer than 10 students 
 
 ### Breakdown by Year
 
@@ -168,22 +150,19 @@ Many of the students had specific political interests, such as race relations on
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 12 sessions total.
-*   Class sessions included small-group student presentations.
-*   One session included a visit to the [MIT Museum](http://web.mit.edu/museum/) to spark discussion about the history of political participation of MIT students, with reference to technology, media, and political hacks.
+- Met 1 time per week for 3 hours per session; 12 sessions total.
+- Class sessions included small-group student presentations.
+- One session included a visit to the [MIT Museum](http://web.mit.edu/museum/) to spark discussion about the history of political participation of MIT students, with reference to technology, media, and political hacks.
 
-Out of Class
-------------
+### Out of Class
 
-*   Readings
-*   Preparation for small-group presentations
-*   Emailing of discussion questions to instructor prior to each class session
-*   Preparation for the test
+- Readings
+- Preparation for small-group presentations
+- Emailing of discussion questions to instructor prior to each class session
+- Preparation for the test

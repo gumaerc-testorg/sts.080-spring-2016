@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides sample essay questions for the test given during
+  the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 837ee7f5-8a75-f5de-72ce-3b3410db8f13
 ---

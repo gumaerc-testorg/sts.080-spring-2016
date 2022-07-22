@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8e6d0c7d-ed49-3315-25e6-f147429e6d32
 ---
