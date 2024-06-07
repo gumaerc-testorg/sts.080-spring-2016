@@ -42,6 +42,7 @@
     "website": "sts-080-youth-political-participation-spring-2016"
   },
   "course_title": "Youth Political Participation",
+  "hide_download": false,
   "course_description": "This course places contemporary youth activities in perspective by surveying young American's political participation over the past 200 years. Each week, students will look at trends in youth political activism during a specific historical period, as well as what difference\u2014if any\u2014youth media production and technology use (radio, music, automobiles, ready-made clothing) made in determining the course of events. A central theme in accounts of political participation by those who have not yet reached the age of majority are the opportunities for mobilization and expression that new technologies supply. This class explores what is truly new about \"new media\" and reviews lessons from history for present-day activists based on patterns of past failure and success.\n",
   "department_numbers": [
     "STS",
@@ -55,7 +56,8 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Activity Assignments"
+    "Activity Assignments",
+    "Instructor Insights"
   ],
   "site_uid": "fc2401aa-662e-4950-acb5-c5216054d68e",
   "site_short_id": "sts.080-spring-2016",
