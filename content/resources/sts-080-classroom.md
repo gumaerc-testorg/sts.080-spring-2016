@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of the classroom used for the course.
-file: /ol-ocw-studio-app/courses/sts-080-youth-political-participation-spring-2016/8dddb730a4fdfac63d87c7d20ccedb72_STS-080-Classroom.jpg
+file: /courses/sts-080-youth-political-participation-spring-2016/8dddb730a4fdfac63d87c7d20ccedb72_STS-080-Classroom.jpg
 file_size: 81213
 file_type: image/jpeg
 image_metadata:
