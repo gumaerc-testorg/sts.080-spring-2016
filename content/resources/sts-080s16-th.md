@@ -4,7 +4,7 @@ description: Children at the 1909 May Day parade in New York City protesting chi
   slavery. This course discusses the history of youth political activism and participation
   in the United States. Courtesy of the Library of Congress. This image is in the
   public domain.
-file: /courses/sts-080-youth-political-participation-spring-2016/ac8a8102fa32cc5779463b5f06f79509_sts-080s16-th.jpg
+file: /ol-ocw-studio-app/courses/sts-080-youth-political-participation-spring-2016/ac8a8102fa32cc5779463b5f06f79509_sts-080s16-th.jpg
 file_size: 9626
 file_type: image/jpeg
 image_metadata:
