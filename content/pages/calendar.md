@@ -110,7 +110,7 @@ Conservative youth movements
 8
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Students will visit the [MIT Museum](http://web.mit.edu/museum/); discuss the history of political participation of MIT students, with reference to technology, media, and political hacks; and the origins of the [Independent Activities Period (IAP)](http://web.mit.edu/iap/).
+Students will visit the {{% resource_link "c8277f66-cbe0-4f88-b978-a6ca10ac3b07" "MIT Museum" %}}; discuss the history of political participation of MIT students, with reference to technology, media, and political hacks; and the origins of the {{% resource_link "f7a60a8e-1357-42c0-87e8-3f4c289e0a95" "Independent Activities Period (IAP)" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
