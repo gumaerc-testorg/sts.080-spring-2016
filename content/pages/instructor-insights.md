@@ -53,7 +53,7 @@ Students’ presentations sparked many conversations in class about how to defin
 
 In this context, one theme that kept cropping up in class was the link between cultural and political expression. In the 1920s, the word “flapper” referred to a hair and fashion choice, but it had political connotations as well. Similarly, the mostly non-white Americans who sported Zoot suits in the 1940s were targets for violence, not merely because of their fashion choices or musical tastes, but because of the political associations with these cultural choices. So students presenting on rap music considered the extent to which cultural expression, in the form of rap music, “counted” as political participation. Many enjoyed listening to rap music before, and came away understanding it as the latest in a long line of young peoples’ cultural artifacts with political meaning.
 
-### Augmenting the Curriculum with a Visit to the {{% resource_link "c8277f66-cbe0-4f88-b978-a6ca10ac3b07" "MIT Museum" %}}
+### Augmenting the Curriculum with a Visit to the [MIT Museum](http://web.mit.edu/museum/)
 
 Visiting the MIT Museum allowed students to learn about the history of political participation among MIT students, and to look at primary sources.
 
@@ -107,7 +107,7 @@ None
 
 - HASS ![](/images/educator/icon-question-hass.png)
 - GIR ![](/images/educator/icon-question-gir.png)
-- STS.080 can be applied toward a {{% resource_link "4d0235e1-e74e-461a-a4fa-f8086f1b9852" "Bachelor of Science in Science, Technology and Society (Second Major)" %}}, but is not required.
+- STS.080 can be applied toward a [Bachelor of Science in Science, Technology and Society (Second Major)](http://catalog.mit.edu/degree-charts/science-technology-society-sts/), but is not required.
 
 ### Offered
 
@@ -158,7 +158,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 - Met 1 time per week for 3 hours per session; 12 sessions total.
 - Class sessions included small-group student presentations.
-- One session included a visit to the {{% resource_link "c8277f66-cbe0-4f88-b978-a6ca10ac3b07" "MIT Museum" %}} to spark discussion about the history of political participation of MIT students, with reference to technology, media, and political hacks.
+- One session included a visit to the [MIT Museum](http://web.mit.edu/museum/) to spark discussion about the history of political participation of MIT students, with reference to technology, media, and political hacks.
 
 ### Out of Class
 
